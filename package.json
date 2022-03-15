@@ -2,7 +2,9 @@
  "name": "node-server",
  "description": "A sample Node.js app using Express 4",
  "dependencies": {
-    "express": "*"
+    "express": "*",
+    "log": "1.4.0",
+    "body-parser": "*"
 },
 "author": "Manali Pen",
 "license": "MIT"
