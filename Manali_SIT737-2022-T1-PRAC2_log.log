@@ -1,0 +1,10 @@
+2022.03.19, 23:56:24.0864 UTC -> Server Activity : Web server started
+2022.03.19, 23:56:25.0329 UTC -> Listening on port : 3000
+2022.03.19, 23:56:56.0743 UTC -> Server Activity : Calculator has been started
+2022.03.19, 23:56:56.0819 UTC -> Server Activity : The result for 10 / 20 = 0.5
+2022.03.19, 23:57:10.0085 UTC -> Server Activity : Calculator has been started
+2022.03.19, 23:57:10.0086 UTC -> Server Activity : The result for 10 * 20 = 200
+2022.03.19, 23:57:18.0291 UTC -> Server Activity : Calculator has been started
+2022.03.19, 23:57:18.0292 UTC -> Server Activity : The result for 10 - 20 = -10
+2022.03.19, 23:58:37.0066 UTC -> Server Activity : The result for 10 + 20 = 30
+2022.03.19, 23:58:37.0065 UTC -> Server Activity : Calculator has been started
